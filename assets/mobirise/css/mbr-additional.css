@@ -813,17 +813,6 @@ section.lazy-placeholder:after {
 .cid-s03AU5DPvZ .mbr-section-btn {
   color: #3dc43b;
 }
-.cid-rX5P72V1oG {
-  background-image: url("../../../assets/images/bright-side-2-frente.jpg");
-}
-.cid-rX5P72V1oG H1 {
-  color: #3dc43b;
-  text-align: center;
-}
-.cid-rX5P72V1oG .mbr-text,
-.cid-rX5P72V1oG .mbr-section-btn {
-  color: #3dc43b;
-}
 .cid-s039z0y11l {
   padding-top: 90px;
   padding-bottom: 90px;
@@ -1037,5 +1026,16 @@ section.lazy-placeholder:after {
 }
 .cid-s03B55SrcD .mbr-text,
 .cid-s03B55SrcD .mbr-section-btn {
+  color: #3dc43b;
+}
+.cid-rX5P72V1oG {
+  background-image: url("../../../assets/images/bright-side-2-frente.jpg");
+}
+.cid-rX5P72V1oG H1 {
+  color: #3dc43b;
+  text-align: center;
+}
+.cid-rX5P72V1oG .mbr-text,
+.cid-rX5P72V1oG .mbr-section-btn {
   color: #3dc43b;
 }
