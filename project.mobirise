@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "cauecastro",
-    "currentPage": "inicio.html",
+    "currentPage": "bemvindo.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -770,7 +770,7 @@
               "background-image": "url(@bg-value)"
             },
             "H1": {
-              "color": "#3dc43b",
+              "color": "#f7ed4a",
               "text-align": "center"
             },
             ".mbr-text, .mbr-section-btn": {
