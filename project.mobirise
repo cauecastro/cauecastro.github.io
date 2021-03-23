@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "cauecastro",
-    "currentPage": "musicas.html",
+    "currentPage": "bemvindo.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -753,7 +753,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "meta_image": "@PROJECT_PATH@/assets/images/bright-side-2-frente.jpg"
+        "meta_image": "@PROJECT_PATH@/assets/images/foto-capa-spotify.jpeg"
       },
       "components": [
         {
