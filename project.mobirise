@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "cauecastro",
-    "currentPage": "bemvindo.html",
+    "currentPage": "page5.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -1089,7 +1089,7 @@
                 "title": "",
                 "textTitle": "Aqui tu me conhece melhor",
                 "overlay": true,
-                "contentAlign": "left",
+                "contentAlign": "center",
                 "text": "Escolhe a plataforma que tu usa!",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-info\" data-app-placeholder=\"Type Text\" href=\"https://open.spotify.com/playlist/1PEA7ZmAMyI85OpEcChwJe?si=Phc2kF96T7e_bMraYVMKCg\" data-toolbar=\"-mbrBtnMove\">Spotify</a> "
               },
@@ -1108,7 +1108,7 @@
                 "title": "",
                 "textTitle": "Compus ou participei da composição",
                 "overlay": true,
-                "contentAlign": "right",
+                "contentAlign": "center",
                 "text": "Escolhe a plataforma que tu usa!",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info display-4\" data-app-placeholder=\"Type Text\" href=\"https://open.spotify.com/playlist/5bA88yla83bGujIRQXxDoB?si=5xB2EAo9RnqZNeH_3jBSlQ\" data-toolbar=\"-mbrBtnMove\">Spotify</a> "
               }
