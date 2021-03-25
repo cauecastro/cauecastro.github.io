@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "cauecastro",
-    "currentPage": "page5.html",
+    "currentPage": "bemvindo.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -42,7 +42,7 @@
       }
     ],
     "favicon": "@PROJECT_PATH@/assets/images/foto-capa-spotify-1.jpg",
-    "imageResize": false,
+    "imageResize": true,
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
