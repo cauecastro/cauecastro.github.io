@@ -1030,6 +1030,12 @@
             },
             ".mbr-overlay ~ .container-slide": {
               "z-index": "auto"
+            },
+            "H2": {
+              "text-align": "center"
+            },
+            "P": {
+              "text-align": "center"
             }
           },
           "_name": "slider1",
@@ -1051,6 +1057,44 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/prainha.jpeg",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "customStyle1": "display-1",
+                "customStyle2": "display-5",
+                "customStyle3": "display-4",
+                "alt": "",
+                "title": "",
+                "textTitle": "Prainha",
+                "overlay": true,
+                "contentAlign": "center",
+                "text": "Escolhe a plataforma que tu usa!",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-info\" data-app-placeholder=\"Type Text\" href=\"https://open.spotify.com/playlist/5wbJ8ABb0QXyKALJivb9CP?si=nUrGiFFuS0SkYzWj0-pb3w\" data-toolbar=\"-mbrBtnMove\">Spotify<br></a> <a data-app-btn=\"true\" class=\"btn  display-4 btn-success\" data-app-placeholder=\"Type Text\" href=\"https://deezer.page.link/kN7xDRrVVV3nNRuv6\" data-toolbar=\"-mbrBtnMove\">Deezer</a> <a data-app-btn=\"true\" class=\"btn  display-4 btn-secondary\" data-app-placeholder=\"Type Text\" href=\"https://youtube.com/playlist?list=PLwYptmSvyczuRljHsvNop33JXVmNEq8M8\" data-toolbar=\"-mbrBtnMove\">Youtube</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/foto-capa-spotify-1217x827.jpg",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "customStyle1": "display-1",
+                "customStyle2": "display-5",
+                "customStyle3": "display-4",
+                "alt": "",
+                "title": "",
+                "textTitle": "Aqui tu me conhece melhor",
+                "overlay": true,
+                "contentAlign": "left",
+                "text": "Escolhe a plataforma que tu usa!",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-info\" data-app-placeholder=\"Type Text\" href=\"https://open.spotify.com/playlist/1PEA7ZmAMyI85OpEcChwJe?si=Phc2kF96T7e_bMraYVMKCg\" data-toolbar=\"-mbrBtnMove\">Spotify</a> "
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/dscn3830-2000x1500.jpg",
                 "active": true,
                 "showButtons": true,
                 "showText": true,
@@ -1062,49 +1106,11 @@
                 "customStyle3": "display-4",
                 "alt": "",
                 "title": "",
-                "textTitle": "Playlists",
-                "overlay": true,
-                "contentAlign": "center",
-                "text": "Escolhe a plataforma que tu usa!",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-info\" data-app-placeholder=\"Type Text\" href=\"https://open.spotify.com/playlist/5wbJ8ABb0QXyKALJivb9CP?si=nUrGiFFuS0SkYzWj0-pb3w\" data-toolbar=\"-mbrBtnMove\">Spotify<br></a> <a data-app-btn=\"true\" class=\"btn  display-4 btn-success\" data-app-placeholder=\"Type Text\" href=\"https://deezer.page.link/kN7xDRrVVV3nNRuv6\" data-toolbar=\"-mbrBtnMove\">Deezer</a> <a data-app-btn=\"true\" class=\"btn  display-4 btn-secondary\" data-app-placeholder=\"Type Text\" href=\"https://youtube.com/playlist?list=PLwYptmSvyczuRljHsvNop33JXVmNEq8M8\" data-toolbar=\"-mbrBtnMove\">Youtube</a>"
-              },
-              {
-                "image": "@THEME_PATH@/components/_images/background2.jpg",
-                "active": false,
-                "showButtons": true,
-                "showText": true,
-                "showTitle": true,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "customStyle1": "display-1",
-                "customStyle2": "display-5",
-                "customStyle3": "display-4",
-                "alt": "",
-                "title": "",
-                "textTitle": "VÍDEO SLIDE",
-                "overlay": true,
-                "contentAlign": "left",
-                "text": "Deslize com o fundo do vídeo e a sobreposição de cores do youtube. O título e o texto estão alinhados à esquerda.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">PARA WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">PARA MAC</a>"
-              },
-              {
-                "image": "@THEME_PATH@/components/_images/background3.jpg",
-                "active": false,
-                "showButtons": true,
-                "showText": true,
-                "showTitle": true,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "customStyle1": "display-1",
-                "customStyle2": "display-5",
-                "customStyle3": "display-4",
-                "alt": "",
-                "title": "",
-                "textTitle": "Imagem do Slider",
+                "textTitle": "Compus ou participei da composição",
                 "overlay": true,
                 "contentAlign": "right",
-                "text": "Escolha a partir da grande seleção de blocos pré-fabricados mais recentes - jumbotrons, imagens de heróis, rolagem de paralaxe, fundos de vídeo, menu de hambúrguer, cabeçalho e mais.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">PARA WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">PARA MAC</a>"
+                "text": "Escolhe a plataforma que tu usa!",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info display-4\" data-app-placeholder=\"Type Text\" href=\"https://open.spotify.com/playlist/5bA88yla83bGujIRQXxDoB?si=5xB2EAo9RnqZNeH_3jBSlQ\" data-toolbar=\"-mbrBtnMove\">Spotify</a> "
               }
             ]
           }
