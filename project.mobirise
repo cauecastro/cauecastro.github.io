@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "cauecastro",
-    "currentPage": "page5.html",
+    "currentPage": "playlists.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -789,9 +789,9 @@
         }
       ]
     },
-    "page5.html": {
+    "playlists.html": {
       "settings": {
-        "meta_descr": "Web Page Builder Description",
+        "meta_descr": "Segue as playlists",
         "title": "Playlists",
         "order": 1
       },
@@ -1057,7 +1057,7 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/prainha.jpeg",
-                "active": false,
+                "active": true,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -1095,7 +1095,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/dscn3830-2000x1500.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
