@@ -1283,3 +1283,14 @@ section.lazy-placeholder:after {
 .cid-ssGXNtavk4 P {
   text-align: center;
 }
+.cid-ssHompMsQl {
+  background-image: url("../../../assets/images/foto-capa-spotify-1217x827.jpg");
+}
+.cid-ssHompMsQl H1 {
+  color: #3dc43b;
+  text-align: center;
+}
+.cid-ssHompMsQl .mbr-text,
+.cid-ssHompMsQl .mbr-section-btn {
+  color: #3dc43b;
+}
